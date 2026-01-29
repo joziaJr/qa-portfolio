@@ -1,13 +1,18 @@
 # Manual QA Testing – Financing App
 
-## Application Description
-A simple financing application used for practicing manual QA testing.
+Manual QA testing documentation for a financing application.  
+This project demonstrates the end-to-end manual testing process, including requirement analysis, test planning, test case execution, and bug reporting.
 
-## QA Scope
+## Scope of Testing
 - Login
-- Form validation
-- Data submission
+- Financing application submission
+- Data validation
+- Basic CRUD operations
 
-## Testing Type
-- Functional Testing
-- Exploratory Testing
+## Tools Used
+- Google Sheets
+- GitHub
+- Manual Testing
+
+## Author
+Josia Jounry Julius Nanlohy
